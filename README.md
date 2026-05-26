@@ -1,29 +1,120 @@
-# 💫 About Me:
+<div align="center">
 
-👨‍💻 Currently working as a Flutter Developer, building scalable and user-friendly mobile applications.<br>🤝 Open to collaborating on innovative Mobile & Web Development projects.<br>🚀 Passionate about creating modern UI/UX experiences with clean and efficient code.<br>🌱 Continuously learning Full Stack Development, Spring Boot, and advanced app architecture.<br>💬 Ask me about Flutter, Dart, React.js, Firebase, REST APIs, and App Development.<br>⚡ Dedicated to turning creative ideas into real-world digital solutions.
- 
- 
-## 🌐 Socials:
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0f0c29,50:302b63,100:24243e&text=Salauddin%20Ansari&fontSize=55&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=Flutter%20Developer%20🚀&descAlignY=55&descSize=20"/>
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_ru__stam) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salauddinansari)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@sallu_flutter) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:salauddinansari5499512@gmail.com)
- 
-# 💻 Tech Stack:
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=⚡+Flutter+Developer;🚀+Building+Future+Ready+Apps;💎+Clean+UI%2FUX+Experiences;🔥+Full+Stack+Developer+in+Progress" />
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.shion.dev/api?username=sallu-developer&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=sallu-developer&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=sallu-developer&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</div>
 
 ---
 
-[![](https://komarev.com/ghpvc/?username=sallu-developer&icon=0&color=0)](https://visitcount.itsvg.in)
- 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
 
- 
+# ⚡ SYSTEM PROFILE
+
+</div>
+
+<img align="right" width="320" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif"/>
+
+```yaml
+Name: Salauddin Ansari
+Role: Flutter Developer
+Focus: Mobile + Web Development
+Experience: Building scalable applications
+Currently Learning:
+  - Spring Boot
+  - Advanced App Architecture
+  - Full Stack Development
+
+Passions:
+  - Modern UI/UX
+  - Clean Code
+  - Creative Development
+  - Real-world Digital Solutions
+```
+
+---
+
+# 🌐 CONNECT MATRIX
+
+<div align="center">
+
+<a href="https://instagram.com/_ru__stam">
+<img src="https://img.shields.io/badge/INSTAGRAM-ff006e?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/salauddinansari">
+<img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.youtube.com/@sallu_flutter">
+<img src="https://img.shields.io/badge/YOUTUBE-ff0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+<a href="mailto:salauddinansari5499512@gmail.com">
+<img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# ⚔ TECH ARSENAL
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,react,nextjs,spring,nodejs,js,java,python,go,cpp,c,cs,php,mysql,postgres,redis,aws,gcp,tailwind,bootstrap,git,github,figma,postman,vscode&theme=dark" />
+
+</div>
+
+---
+
+# 📊 GITHUB ANALYTICS
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sallu-developer&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sallu-developer&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF"/>
+
+</div>
+
+---
+
+# 🔥 STREAK STATUS
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=sallu-developer&theme=tokyonight&hide_border=true&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF"/>
+
+</div>
+
+---
+
+# 🏆 ACHIEVEMENT MATRIX
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=sallu-developer&theme=algolia&no-frame=true&margin-w=15&margin-h=15"/>
+
+</div>
+
+---
+
+# 👁 VISITOR COUNTER
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=sallu-developer&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 💎 "Turning Creative Ideas Into Digital Reality"
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:24243e,50:302b63,100:0f0c29&section=footer"/>
+
+</div>
