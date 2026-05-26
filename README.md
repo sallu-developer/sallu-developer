@@ -1,135 +1,82 @@
-<!-- Header Banner with Animation -->
 <div align="center">
-  <a href="https://sallu-dev.vercel.app/">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Welcome%20to%20My%20Space!&fontSize=50&fontAlignY=35&animation=twinkling&desc=Salauddin%20Ansari&descAlignY=55&descAlign=50" width="100%"/>
+  <!-- Glowing/Animated Header -->
+  <a href="https://sallu-dev.vercel.app/" target="_blank">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00E5FF&height=250&section=header&text=Salauddin%20Ansari&fontSize=60&fontColor=ffffff&animation=twinkling&desc=Elite%20Software%20Engineer&descAlignY=60&descAlign=50" width="100%"/>
   </a>
 </div>
 
-<!-- Animated Typing Effect -->
 <div align="center">
-  <a href="https://sallu-dev.vercel.app/">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Flutter+Developer;Full+Stack+Enthusiast;Building+Scalable+Mobile+Apps;Turning+Ideas+into+Digital+Solutions" alt="Typing SVG" />
+  <a href="https://sallu-dev.vercel.app/" target="_blank">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=System.out.println(%22Hello+World!%22);Flutter+Developer+&+Full+Stack+Ninja;Building+Scalable+Mobile+Apps;Turning+Coffee+into+Code" alt="Typing SVG" />
   </a>
 </div>
 
-<br/>
-
-<!-- Premium Portfolio Button -->
 <div align="center">
-  <a href="https://sallu-dev.vercel.app/" target="blank">
-    <img align="center" src="https://img.shields.io/badge/🌐_Visit_My_Premium_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio" />
+  <a href="https://sallu-dev.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🚀_VISIT_MY_PREMIUM_PORTFOLIO-00E5FF?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio" />
   </a>
 </div>
 
 <br/>
-<br/>
-
-### 💫 About Me
 
 <div align="center">
-  <img align="right" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="200" alt="Animated Hi GIF" />
-</div>
-
-- 👨‍💻 Currently working as a **Flutter Developer**, building scalable and user-friendly mobile applications.
-- 🤝 Open to collaborating on innovative **Mobile & Web Development** projects.
-- 🚀 Passionate about creating modern **UI/UX experiences** with clean and efficient code.
-- 🌱 Continuously learning **Full Stack Development, Spring Boot**, and advanced app architecture.
-- 💬 Ask me about **Flutter, Dart, React.js, Firebase, REST APIs**, and App Development.
-- ⚡ Fun fact: Dedicated to turning creative ideas into real-world digital solutions.
-
-<br/>
-
-### 🌐 Connect with Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/salauddinansari" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
-  <a href="https://instagram.com/_ru__stam" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" /></a>
-  <a href="https://www.youtube.com/@sallu_flutter" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="youtube" /></a>
-  <a href="mailto:salauddinansari5499512@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
-</p>
-
-<br/>
-
-### 💻 Tech Stack
-
-<details>
-  <summary><b>👨‍💻 Languages</b></summary>
-  <br/>
-  <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
-</details>
-
-<details open>
-  <summary><b>📱 Frontend & Mobile</b></summary>
-  <br/>
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white"/>
-</details>
-
-<details>
-  <summary><b>⚙️ Backend & Database</b></summary>
-  <br/>
-  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens"/>
-</details>
-
-<details>
-  <summary><b>🛠️ Cloud, Tools & Design</b></summary>
-  <br/>
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white"/>
-  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7"/>
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white"/>
-</details>
-
-<br/>
-
-### 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sallu-developer&theme=algolia&row=1&column=7&no-frame=true&no-bg=true&margin-w=15" alt="sallu-developer" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="500" alt="Coding Animation"/>
 </div>
 
 <br/>
 
-### 📊 GitHub Stats
+<h2 align="center">👨‍💻 About Me</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=sallu-developer&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="Sallu's GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=sallu-developer&theme=tokyonight&hide_border=false" alt="Sallu's GitHub Streak" />
+  <p>
+    <b>Role:</b> Flutter Developer & Full Stack Enthusiast <br/>
+    <b>Mission:</b> Building scalable, high-performance applications with flawless UI/UX. <br/>
+    <b>Currently Learning:</b> Advanced App Architecture & Spring Boot. <br/>
+    <b>Passionate About:</b> Clean Code, System Design, and Innovative Solutions. <br/>
+    <b>Fun Fact:</b> I can turn a cup of coffee into a fully functional app! ☕
+  </p>
+</div>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/salauddinansari" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://instagram.com/_ru__stam" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.youtube.com/@sallu_flutter" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="mailto:salauddinansari5499512@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</div>
+
+<br/>
+
+<h2 align="center">⚡ Tech Arsenal</h2>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=dart,js,ts,java,py,c,cpp,cs,go,php,html,css&perline=12" />
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=flutter,react,nextjs,tailwind,bootstrap,vite&perline=12" />
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=spring,dotnet,mysql,postgres,redis,nodejs,firebase&perline=12" />
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,git,github,figma,postman,vercel,netlify&perline=12" />
+</div>
+
+<br/>
+
+<h2 align="center">📈 GitHub Analytics</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=sallu-developer&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117" alt="Sallu's GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=sallu-developer&theme=tokyonight&hide_border=true&background=0D1117" alt="Sallu's GitHub Streak" />
 </div>
 <br/>
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=sallu-developer&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Sallu's Top Languages" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=sallu-developer&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0D1117" alt="Sallu's Top Languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <a href="https://sallu-dev.vercel.app/">
-    <img src="https://komarev.com/ghpvc/?username=sallu-developer&icon=0&color=0" alt="Profile Views" />
+  <a href="https://sallu-dev.vercel.app/" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=sallu-developer&label=Profile%20Views&color=00E5FF&style=flat-square" alt="Profile Views" />
   </a>
-  <p><i>Thanks for visiting my profile! Have a great day! 😊</i></p>
+  <br/>
+  <p><i>Building the future, one line of code at a time. 🚀</i></p>
 </div>
